@@ -1,5 +1,5 @@
 # aws-upgrade-sam-cli
-
+```
 sudo /usr/local/bin/pip uninstall aws-sam-cli
 
 rm -rf $(which sam)
@@ -19,3 +19,4 @@ brew tap aws/tap
 brew install aws-sam-cli
 
 sam --version
+```
